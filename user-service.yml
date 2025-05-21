@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/user-service
+    url: jdbc:postgresql://localhost:5432/edumaster-db
     username: root
     password: CroKusPRreP9KqOFV1sG
   jpa:
