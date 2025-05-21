@@ -1,0 +1,10 @@
+database:
+  host: localhost
+  port: 5432
+  name: edumaster-db
+  username: root
+  password: CroKusPRreP9KqOFV1sG
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
